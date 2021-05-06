@@ -1,0 +1,7 @@
+<div class="box">
+    <figure *ngFor="let movie of movies">
+      <img [src]="movie.imgUrl" alt="">
+      <figcaption>{{ movie.title }}</figcaption>
+    </figure>
+</div>
+
