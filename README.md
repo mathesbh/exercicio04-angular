@@ -1,5 +1,14 @@
-# FFAExercicio04
+## Exercício 4
 
+##### Disciplina Frameworks front end: Angular e Vue
+----
+##### Atividades:
+
+* Você poderá, ao seu critério, dividir os componentes da forma como achar mais interessante;
+* Tente componentizar o máximo de componentes possíveis;
+* Os filmes da listagem deve estar presentes em algum componente, de forma fixa (sem buscar de
+APIs ou de outros arquivos);
+-------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
