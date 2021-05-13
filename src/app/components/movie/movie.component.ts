@@ -7,6 +7,8 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class MovieComponent implements OnInit {
 
+  private base_url_image: string = 'https://image.tmdb.org/t/p/w500';
+
   @Input() movies: Object;
 
   constructor() { }

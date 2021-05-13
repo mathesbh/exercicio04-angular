@@ -1,6 +1,6 @@
 <div class="box">
     <figure *ngFor="let movie of movies">
-      <img [src]="movie.imgUrl" alt="">
+      <img src="{{base_url_image + movie.poster_path}}" alt="">
       <figcaption>{{ movie.title }}</figcaption>
     </figure>
 </div>
