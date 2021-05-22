@@ -1,8 +1,18 @@
-## Exercício 4
-
-##### Disciplina Frameworks front end: Angular e Vue
+### Disciplina Frameworks front end: Angular e Vue
 ----
-##### Atividades:
+#### Exercícios:
+
+###### Exercício 5
+
+* Você poderá, ao seu critério, dividir os componentes da forma como achar mais interessante;
+* Você poderá dividir os módulos (caso existam), da forma como achar mais viável;
+* Tente componentizar o máximo de componentes possíveis;
+* Liste os filmes através da API [TMDB](https://www.themoviedb.org/);
+* A busca deverá ser realizada em tempo real com os dados em memória, ou seja, enquanto o usuário digita no input.
+
+-------
+
+###### Exercício 4
 
 * Você poderá, ao seu critério, dividir os componentes da forma como achar mais interessante;
 * Tente componentizar o máximo de componentes possíveis;
